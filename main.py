@@ -1,6 +1,5 @@
 #take input
-print("Type you 32-bit IEEE754 Floating Point Number: ")
-x = input()
+x = input("Type you 32-bit IEEE754 Floating Point Number: ")
 
 class floating_point:
   def __init__(self,inp):
